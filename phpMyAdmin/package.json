@@ -12,7 +12,7 @@
   "dependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.22.6",
     "blueimp-md5": "^2.18.0",
     "bootstrap": "4.5.3",
     "codemirror": "5.59.2",
